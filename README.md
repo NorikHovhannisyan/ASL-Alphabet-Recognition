@@ -5,7 +5,7 @@ This project is a real-time American Sign Language (ASL) alphabet recognition sy
 
 
 [Image of ASL alphabet hand signs]
-
+ 
 
 ## 🚀 Features
 - **Real-time Detection**: Uses OpenCV to capture video and predict gestures instantly.
