@@ -63,7 +63,7 @@ Run the main script to start the webcam interface:
 
 ```Bash
 python Asl.py
-```
+``` 
 ### 💡 Instructions:
 - Positioning: Once the window opens, place your hand inside the blue square (ROI).
 - Prediction: The predicted letter will appear at the top of the frame in real-time.
